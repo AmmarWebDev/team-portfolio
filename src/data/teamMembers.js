@@ -1,7 +1,7 @@
 export const teamMembers = [
   {
     name: "Error Boy",
-    imagePath: "/public/images/error.jpg",
+    imagePath: "/images/error.jpg",
     skills: ["HTML", "CSS", "Javascript"],
     socials: {
       Email: "mailto:boyerror928@gmail.com",
@@ -11,7 +11,7 @@ export const teamMembers = [
   },
   {
     name: "Miro",
-    imagePath: "/public/images/miro.png",
+    imagePath: "/images/miro.png",
     skills: [
       "React",
       "TailwindCSS",
@@ -29,7 +29,7 @@ export const teamMembers = [
   },
   {
     name: "Ashir",
-    imagePath: "/public/images/profilepicforashir.png",
+    imagePath: "/images/profilepicforashir.png",
     skills: [
       "React",
       "Svelte",
@@ -50,7 +50,7 @@ export const teamMembers = [
   },
   {
     name: "Nex",
-    imagePath: "/public/images/nex.png",
+    imagePath: "/images/nex.png",
     skills: ["React", "NodeJs", "Next.js", "GraphQL", "Fullstack-developer"],
     socials: {
       Discord: "https://discordapp.com/users/774645506306998312",
@@ -59,7 +59,7 @@ export const teamMembers = [
   },
   {
     name: "Ozil",
-    imagePath: "/public/images/ozil.jpg",
+    imagePath: "/images/ozil.jpg",
     skills: [
       "HTML5",
       "CSS3",
@@ -80,7 +80,7 @@ export const teamMembers = [
   },
   {
     name: "Abdul Ahad",
-    imagePath: "/public/images/ahadiff.png",
+    imagePath: "/images/ahadiff.png",
     skills: [
       "Front-end Developer",
       "AI Expert",
@@ -97,7 +97,7 @@ export const teamMembers = [
   },
   {
     name: "DarkDesirt",
-    imagePath: "/public/images/darkdesirt.png",
+    imagePath: "/images/darkdesirt.png",
     skills: [
       "Cybersecurity Professional",
       "Code-slinging innovator",
@@ -110,37 +110,8 @@ export const teamMembers = [
     },
   },
   {
-    name: "Hassan",
-    imagePath: "/public/images/hassaan.jpg",
-    skills: [
-      "Social Media Manager",
-      "Video Editing",
-      "Graphic Designer",
-      "Web Development",
-    ],
-    socials: {
-      LinkedIn:
-        "https://www.linkedin.com/in/hassaan-bin-imran-3a6a45256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    },
-  },
-  {
-    name: "Full-Stack & AI/ML Developer",
-    imagePath: "/public/images/hrach.jpg",
-    skills: [
-      "AI/ML engineer",
-      "Full Stack Developer",
-      "Mobile App Developer",
-      " API Integration",
-    ],
-    socials: {
-      Email: "mailto:shanglnternational.com@gmail.com",
-      Github: "https://github.com/HrachK777",
-      Portfolio: "https://hrach-portfolio.vercel.app/"
-    },
-  },
-  {
-    name: "Frontend & Wordpress Developer",
-    imagePath: "/public/images/abdullah-dev.jpeg",
+    name: "Mohammad Ali",
+    imagePath: "/images/abdullah-dev.jpeg",
     skills: [
       "HTML5",
       "CSS3",
